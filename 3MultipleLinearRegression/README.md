@@ -1,5 +1,11 @@
 # Multiple Linear Regression
 
+<p align="center">
+  <img src="3.1MultipleLinearRegression.png" width="49%" />
+  <img src="3.2MultipleLinearRegression.png" width="49%" />
+</p>
+
+
 ## Introduction
 
 Multiple Linear Regression is a supervised machine learning algorithm used to predict a continuous dependent variable using two or more independent variables.
