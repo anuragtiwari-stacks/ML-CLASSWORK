@@ -1,5 +1,10 @@
 # Linear Regression using Gradient Descent
 
+<p align="center">
+  <img src="4Regression_GradientDescant.png" width="100%" />
+</p>
+
+
 ## Introduction
 
 Gradient Descent is an optimization algorithm used to minimize the cost function in machine learning models.
