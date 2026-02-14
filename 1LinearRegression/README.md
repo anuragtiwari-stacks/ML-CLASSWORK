@@ -1,5 +1,9 @@
 # Linear Regression
 
+<p align="center">
+  <img src="1LinearRegression.png" width="100%" />
+</p>
+
 ## Introduction
 
 Linear Regression is a supervised machine learning algorithm used for predicting a continuous target variable.  
