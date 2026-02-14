@@ -1,5 +1,9 @@
 # K-Nearest Neighbors (KNN) Classification
 
+<p align="center">
+  <img src="5KNN_Classification.png" width="100%" />
+</p>
+
 ## Introduction
 
 K-Nearest Neighbors (KNN) is a supervised machine learning algorithm used for classification and regression problems.
